@@ -1,0 +1,28 @@
+{
+  "id": "adb9a6c2-f081-4e49-83cd-23b7323b767e",
+  "name": "ALProject1",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
